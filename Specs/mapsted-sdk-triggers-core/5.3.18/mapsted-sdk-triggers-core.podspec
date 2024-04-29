@@ -1,4 +1,4 @@
-5.3.18Pod::Spec.new do |s|  
+Pod::Spec.new do |s|  
     s.name              = 'mapsted-sdk-triggers-core'
     s.version           = '5.3.18'
     s.summary           = 'Mapsted Mobile Core SDK for alerts and marketing'
