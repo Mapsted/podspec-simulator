@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|  
-    s.name              = 'mapsted-sdk-location-sharee'
+    s.name              = 'mapsted-sdk-location-share'
     s.version           = '5.3.19'
     s.summary           = 'Mapsted Mobile Location Share SDK'
     s.homepage          = 'https://developer.mapsted.com/getting-started/'
