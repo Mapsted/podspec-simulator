@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|  
     s.name              = 'mapsted-sdk-core'
     s.version           = '6.1.5'
-    s.summary           = 'Mapsted Mobile SDK for indoor positioning'
+    s.summary           = 'Mapsted Mobile SDK for indoor positioning '
     s.homepage          = 'https://mapsted.com/developer-tools-resources-indoor-navigation-api'
 
     s.author            = { 'Mapsted' => 'https://mapsted.com' }
